@@ -1,2 +1,4 @@
 # conflict-repo
-Repo with intentional conflicts to demonstrate how to merge with git
+Repo with intentional conflicts to show how to merge with git
+
+dummy text here
